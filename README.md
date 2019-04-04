@@ -14,8 +14,13 @@ We are required to develop a small system using MAVEN and Java programming langu
 - The result of Thread-3 MUST be displayed after completing Thread-4.
 
 ## 3. Output
+![](https://github.com/tanyujia/255045-STIW3054-A182-A2/blob/master/output-01.png)
+
+![](https://github.com/tanyujia/255045-STIW3054-A182-A2/blob/master/output-02.png)
 
 ## 4. UML Class Diagram
+
+![](https://github.com/tanyujia/255045-STIW3054-A182-A2/blob/master/class%20diagram.jpg)
 
 ## 5. Youtube link
 https://youtu.be/FdmabRMDmWQ
